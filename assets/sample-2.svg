@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+  <defs>
+    <linearGradient id='g2' x1='0' x2='0' y1='0' y2='1'>
+      <stop offset='0' stop-color='#f6f0ff'/>
+      <stop offset='1' stop-color='#dff1ff'/>
+    </linearGradient>
+  </defs>
+  <rect width='800' height='600' fill='url(#g2)'/>
+  <g fill='#fff' opacity='.9'>
+    <circle cx='640' cy='100' r='60'/>
+  </g>
+  <g stroke='#e1c1da' stroke-width='2' fill='none'>
+    <path d='M120 460 Q200 400 280 460 T440 460 T600 460' />
+  </g>
+  <g fill='#d7a94b'>
+    <circle cx='200' cy='220' r='3'/>
+    <circle cx='480' cy='160' r='2'/>
+    <circle cx='700' cy='200' r='3'/>
+    <circle cx='360' cy='120' r='2'/>
+  </g>
+  <text x='50%' y='55%' text-anchor='middle' font-family='Hiragino Mincho ProN, Yu Mincho, serif' font-size='36' fill='#3a2d2c'>月夜のステージ</text>
+</svg>
+
